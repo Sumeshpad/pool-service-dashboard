@@ -11,9 +11,6 @@ export function App() {
   return (
     <>
       <section>
-        <h1 className="text-5xl">Dashboard </h1>
-        <h3>Job Listing</h3>
-
         <JobListing />
       </section>
     </>
